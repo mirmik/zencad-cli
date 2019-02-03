@@ -16,7 +16,7 @@ setup(
 	version = '0.1.0',
 	license='MIT',
 	description = 'CAD system for righteous zen programmers ',
-	author = 'Sorokin Nikolay',
+	author = 'mirmik',
 	author_email = 'mirmikns@yandex.ru',
 	url = 'https://mirmik.github.io/zencad/',
 	keywords = ['testing', 'cad'],
