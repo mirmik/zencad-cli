@@ -1,8 +1,0 @@
-setup.py
-routine/zencad
-zencad-cli/__init__.py
-zencad_cli.egg-info/PKG-INFO
-zencad_cli.egg-info/SOURCES.txt
-zencad_cli.egg-info/dependency_links.txt
-zencad_cli.egg-info/requires.txt
-zencad_cli.egg-info/top_level.txt
